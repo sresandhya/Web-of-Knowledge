@@ -1,0 +1,15 @@
+# Environment files
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# OS-specific files
+.DS_Store
+
+# Node modules (if using JS/React)
+node_modules/
